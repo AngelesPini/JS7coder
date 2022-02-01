@@ -1,0 +1,13 @@
+header button a {
+  text-decoration: none;
+  color: black; }
+
+header button:hover {
+  background-color: green;
+  color: white; }
+
+header a:hover {
+  color: white; }
+
+body {
+  background-image: url(../media/wallpaper-1.jpg); }

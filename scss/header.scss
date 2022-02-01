@@ -1,0 +1,15 @@
+header {
+  button {
+    a {
+      text-decoration: none;
+      color: black;
+    }
+  }
+  button:hover {
+    background-color: green;
+    color: white;
+  }
+  a:hover {
+    color: white;
+  }
+}
